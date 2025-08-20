@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://swirius.github.io/sitemap.xml
