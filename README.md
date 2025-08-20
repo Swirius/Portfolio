@@ -3,7 +3,7 @@
 Portafolio personal de **Junior Java Developer (Backend & Web)**. Enfoque en código claro, buenas prácticas y entrega de valor. Deploy en **GitHub Pages**.
 
 ## 🚀 Demo
-- **Live:** https://swirius.github.io/ _(ajusta la URL si usás otra ruta o repo)_
+- **Live:** https://swirius.github.io/Portfolio/
 
 ## 📦 Stack
 - **Frontend:** HTML5, CSS3, JavaScript (vanilla)
