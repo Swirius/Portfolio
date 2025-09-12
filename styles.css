@@ -125,11 +125,29 @@ body {
   margin: 28px 0
 }
 
-@media (max-width: 860px) {
+.code {
+  margin: 0;
+  background: #0c1217;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px;
+  color: #cfe8f4;
+  overflow-x: auto;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-family: var(--font);
+}
 
+@media (max-width: 992px) {
+  .grid.three {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
   .grid.two,
   .grid.three {
-    grid-template-columns: 1fr
+    grid-template-columns: 1fr;
   }
 }
 
