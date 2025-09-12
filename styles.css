@@ -347,17 +347,6 @@ body {
   }
 }
 
-.code {
-  margin: 0;
-  background: #0c1217;
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  padding: 16px;
-  color: #cfe8f4;
-  overflow: auto;
-  font-family: var(--font)
-}
-
 .contact {
   list-style: none;
   padding: 0;
@@ -365,6 +354,12 @@ body {
   display: flex;
   flex-direction: column;
   gap: 6px
+}
+
+.link{
+  color: var(--accent);
+  text-decoration: none;
+  transition: all .2s ease
 }
 
 label {
